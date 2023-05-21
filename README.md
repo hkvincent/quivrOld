@@ -1,5 +1,5 @@
 # Quivr
-
+<h2>New Version:https://github.com/StanGirard/quivr<h2>
 <p align="center">
 <img src="./logo.png" alt="Quivr-logo" width="30%">
 <p align="center">
